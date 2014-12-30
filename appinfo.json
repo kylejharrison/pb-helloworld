@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kylejharrison@gmail.com",
+    "longName": "HelloWorld",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "HelloWorld",
+    "uuid": "33cca75b-cebd-4c63-ba92-6cd0a4bc8243",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
